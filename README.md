@@ -1,6 +1,6 @@
 
 ## 🔗 Link
- [https://nirmitraj.github.io/Digital-Clock/](https://sherchanjen1.github.io/DigitalClock/)
+ [https://sherchanjen1.github.io/DigitalClock/]
 
 # Digital Clock
 
